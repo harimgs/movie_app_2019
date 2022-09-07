@@ -16,7 +16,7 @@ function Detail() {
 
   return (
     <div>
-      <Link to={`${process.env.PUBLIC_URL}/`}>
+      <Link to="/">
         <h2>Home</h2>
       </Link>
         <h1>Detail</h1>
